@@ -154,12 +154,12 @@
 
 ### Study Order
 
-To efficiently tackle the **Top 100 Liked** LeetCode questions, follow this study plan:
+To efficiently tackle the **Top 100 Liked** LeetCode questions, follow this study plan:  
 You can paste your github code link in the blank link.
 
 #### **1. Warm-up (Fundamentals)**
 Start with basic problem-solving techniques to build confidence.
-- [ ] [Two Sum]()
+- [x] [Two Sum](./two-sum.go)
 - [ ] [Valid Parentheses]()
 - [ ] [Reverse Linked List]()
 - [ ] [Maximum Subarray]()
