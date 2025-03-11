@@ -160,7 +160,7 @@ You can paste your github code link in the blank link.
 #### **1. Warm-up (Fundamentals)**
 Start with basic problem-solving techniques to build confidence.
 - [x] [Two Sum](./two-sum.go)
-- [ ] [Valid Parentheses]()
+- [x] [Valid Parentheses](./valid-parentheses.go)
 - [ ] [Reverse Linked List]()
 - [ ] [Maximum Subarray]()
 - [ ] [Climbing Stairs]()

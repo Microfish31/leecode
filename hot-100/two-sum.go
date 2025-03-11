@@ -1,11 +1,11 @@
-// Time complexity o(n)
-// Space complexity o(n)
-// Runtime 0 ms
-// Memory 5.92 MB
+// Time Complexity: O(n) - Each element is visited once
+// Space Complexity: O(n) - Hash map stores indices
+// Runtime: 0 ms
+// Memory: 5.92 MB
 
-// map store key-value
-// key: input number value
-// value: input number index
+// Key Idea:
+// 1. Use a hash map to store numbers and their indices.
+// 2. Check if (target - current number) exists in the map.
 
 func twoSum(nums []int, target int) []int {
 	myMap := make(map[int]int)
