@@ -161,7 +161,7 @@ You can paste your github code link in the blank link.
 Start with basic problem-solving techniques to build confidence.
 - [x] [Two Sum](./two-sum.go)
 - [x] [Valid Parentheses](./valid-parentheses.go)
-- [ ] [Reverse Linked List]()
+- [x] [Reverse Linked List](./reverce-linked-list.go)
 - [ ] [Maximum Subarray]()
 - [ ] [Climbing Stairs]()
 
