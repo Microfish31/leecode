@@ -1,11 +1,12 @@
 // Time Complexity: O(n)
-// Space Complexity: O(n)
-// Runtime: x ms
-// Memory: x MB
+// Space Complexity: O(1)
+// Runtime: 0 ms
+// Memory: 10.23 MB
 
 // Key Idea:
 // 1. DP
 // 2. Greedy
+// 3. Kadane's Algorithm
 
 func maxSubArray(nums []int) int {
 	max_sum := nums[0]
