@@ -1,4 +1,4 @@
-# leecode top 100 liked
+# leetcode top 100 liked
 
 ### Hash (3)
 
@@ -162,7 +162,7 @@ Start with basic problem-solving techniques to build confidence.
 - [x] [Two Sum](./two-sum.go)
 - [x] [Valid Parentheses](./valid-parentheses.go)
 - [x] [Reverse Linked List](./reverce-linked-list.go)
-- [ ] [Maximum Subarray]()
+- [ ] [Maximum Subarray](./max_subarray.go)
 - [ ] [Climbing Stairs]()
 
 #### **2. Arrays & Hashing**
