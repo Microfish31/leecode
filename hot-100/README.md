@@ -1,8 +1,8 @@
-# leecode top 100 liked
+# leetcode top 100 liked
 
 ### Hash (3)
 
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum) (#1)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum) (#1)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams) (#49)
 - [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) (#128)
 
@@ -26,7 +26,7 @@
 
 ### Array (5)
 
-- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) (#53)
+- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) (#53)
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals) (#56)
 - [ ] [Rotate Array](https://leetcode.com/problems/rotate-array) (#189)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) (#238)
@@ -42,7 +42,7 @@
 ### Linked List (13)
 
 - [ ] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) (#160)
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) (#206)
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) (#206)
 - [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) (#234)
 - [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) (#141)
 - [ ] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) (#142)
@@ -102,7 +102,7 @@
 
 ### Stack (5)
 
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) (#20)
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) (#20)
 - [ ] [Min Stack](https://leetcode.com/problems/min-stack) (#155)
 - [ ] [Decode String](https://leetcode.com/problems/decode-string) (#394)
 - [ ] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) (#739)
@@ -152,8 +152,7 @@
 
 ---
 
-### Study Order
-
+### Study Order  
 To efficiently tackle the **Top 100 Liked** LeetCode questions, follow this study plan:  
 You can paste your github code link in the blank link.
 
@@ -162,7 +161,7 @@ Start with basic problem-solving techniques to build confidence.
 - [x] [Two Sum](./two-sum.go)
 - [x] [Valid Parentheses](./valid-parentheses.go)
 - [x] [Reverse Linked List](./reverce-linked-list.go)
-- [ ] [Maximum Subarray]()
+- [x] [Maximum Subarray](./max_subarray.go)
 - [ ] [Climbing Stairs]()
 
 #### **2. Arrays & Hashing**
