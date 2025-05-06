@@ -3,7 +3,7 @@
 ### Hash (3)
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum) (#1)
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams) (#49)
+- [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams) (#49)
 - [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) (#128)
 
 ### Two Pointers (4)
@@ -162,11 +162,11 @@ Start with basic problem-solving techniques to build confidence.
 - [x] [Valid Parentheses](./valid-parentheses.go)
 - [x] [Reverse Linked List](./reverce-linked-list.go)
 - [x] [Maximum Subarray](./max_subarray.go)
-- [ ] [Climbing Stairs]()
+- [x] [Climbing Stairs](./climbing_stairs.go)
 
 #### **2. Arrays & Hashing**
 Strengthen your knowledge of fundamental data structures.
-- [ ] [Group Anagrams]()
+- [x] [Group Anagrams](./group_anagrams.go)
 - [ ] [Longest Consecutive Sequence]()
 - [ ] [Product of Array Except Self]()
 - [ ] [First Missing Positive]()
