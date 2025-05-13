@@ -4,7 +4,7 @@
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum) (#1)
 - [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams) (#49)
-- [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) (#128)
+- [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) (#128)
 
 ### Two Pointers (4)
 
@@ -123,7 +123,7 @@
 
 ### Dynamic Programming (10)
 
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) (#70)
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) (#70)
 - [ ] [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) (#118)
 - [ ] [House Robber](https://leetcode.com/problems/house-robber) (#198)
 - [ ] [Perfect Squares](https://leetcode.com/problems/perfect-squares) (#279)
@@ -167,7 +167,7 @@ Start with basic problem-solving techniques to build confidence.
 #### **2. Arrays & Hashing**
 Strengthen your knowledge of fundamental data structures.
 - [x] [Group Anagrams](./group_anagrams.go)
-- [ ] [Longest Consecutive Sequence]()
+- [x] [Longest Consecutive Sequence](./longest_consecutive.go)
 - [ ] [Product of Array Except Self]()
 - [ ] [First Missing Positive]()
 - [ ] [Set Matrix Zeroes]()
