@@ -34,7 +34,7 @@
 
 ### Matrix (4)
 
-- [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) (#73)
+- [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) (#73)
 - [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) (#54)
 - [ ] [Rotate Image](https://leetcode.com/problems/rotate-image) (#48)
 - [ ] [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) (#240)
@@ -170,7 +170,7 @@ Strengthen your knowledge of fundamental data structures.
 - [x] [Longest Consecutive Sequence](./longest_consecutive.go)
 - [ ] [Product of Array Except Self]()
 - [ ] [First Missing Positive]()
-- [ ] [Set Matrix Zeroes]()
+- [x] [Set Matrix Zeroes](./set_matrix_zeroes.go)
 
 #### **3. Two Pointers & Sliding Window**
 Improve efficiency by mastering these techniques.
