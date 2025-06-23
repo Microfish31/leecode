@@ -8,7 +8,7 @@
 
 ### Two Pointers (4)
 
-- [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes) (#283)
+- [x] [Move Zeroes](https://leetcode.com/problems/move-zeroes) (#283)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water) (#11)
 - [ ] [3Sum](https://leetcode.com/problems/3sum) (#15)
 - [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) (#42)
@@ -174,7 +174,7 @@ Strengthen your knowledge of fundamental data structures.
 
 #### **3. Two Pointers & Sliding Window**
 Improve efficiency by mastering these techniques.
-- [ ] [Move Zeroes]()
+- [x] [Move Zeroes](./move_zeros.go)
 - [ ] [Container With Most Water]()
 - [ ] [3Sum]()
 - [ ] [Trapping Rain Water]()
