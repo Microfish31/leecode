@@ -15,7 +15,7 @@
 
 ### Sliding Window (2)
 
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) (#3)
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) (#3)
 - [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) (#438)
 
 ### Substring (3)
@@ -178,7 +178,7 @@ Improve efficiency by mastering these techniques.
 - [ ] [Container With Most Water]()
 - [ ] [3Sum]()
 - [ ] [Trapping Rain Water]()
-- [ ] [Longest Substring Without Repeating Characters]()
+- [x] [Longest Substring Without Repeating Characters](./longest_substring_without_repeating_characters.go)
 
 #### **4. Linked List**
 Focus on pointers and linked list manipulation.
