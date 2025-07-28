@@ -46,7 +46,7 @@
 - [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) (#234)
 - [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) (#141)
 - [ ] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) (#142)
-- [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) (#2)
+- [x] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) (#2)
 - [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) (#19)
 - [ ] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) (#24)
 - [ ] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) (#25)
@@ -182,7 +182,7 @@ Improve efficiency by mastering these techniques.
 
 #### **4. Linked List**
 Focus on pointers and linked list manipulation.
-- [ ] [Add Two Numbers]()
+- [x] [Add Two Numbers](./add_two_numbers.go)
 - [ ] [Remove Nth Node From End of List]()
 - [ ] [Merge k Sorted Lists]()
 - [ ] [LRU Cache]()
